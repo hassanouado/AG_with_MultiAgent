@@ -1,2 +1,0 @@
-﻿# AG_MultiAgent
-# AG_with_MultiAgent
